@@ -1,4 +1,4 @@
-#declaramos la vairables: 
+
 cryptoCurrency1 = input('Enter the name of the first cryptocurrency: ')
 cryptoCurrencyVal1 = float(input('Enter the value of ' + str(cryptoCurrency1) + ': '))
 cryptoCurrency2 = input('Enter the name of the second cryptocurrency: ')
